@@ -2,6 +2,10 @@
 
 See the book there: https://sitandr.github.io/typst-examples-book/book/
 
+## Typst Version
+
+- Typst 0.12.0, Dec 2024
+
 ## Highlight & rendering
 
 Currently powered by https://github.com/sitandr/mdbook-typst-highlight.
